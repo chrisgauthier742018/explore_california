@@ -1,13 +1,13 @@
-# git init
+1. git init
 
-# git add README.md
+2. git add README.md
 
-# git commit -m "first commit"
+3. git commit -m "first commit"
 
-# git remote add origin https://github.com/chrisgauthier742018/explore_california.git
+4. git remote add origin https://github.com/chrisgauthier742018/explore_california.git
 
-# git push -u origin master
+5. git push -u origin master
 
-# link to google pages
+#### link to google pages
 
-# https://github.com/chrisgauthier742018/explore_california.git
+#### https://github.com/chrisgauthier742018/explore_california.git
