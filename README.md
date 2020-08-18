@@ -8,4 +8,4 @@
 
 #### git push -u origin master
 
-#### https://github.com/chrisgauthier742018/explore_california.git
+#### https://github.com/chrisgauthier742018/explore_california
